@@ -3,7 +3,7 @@
 
 ## Location
 
-|      | Latitute   | Longitude   | Elevation (m) |
+|      | Latitude   | Longitude   | Elevation (m) |
 |------|------------|-------------|---------------|
 | 10-m | 45.9555431 | -78.0701136 | 229           |
 | 46-m | 45.9554015 | -78.0727995 | 245           |
