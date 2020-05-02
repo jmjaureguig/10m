@@ -1,7 +1,7 @@
 # Summary
 
 
-## Location (20200502location.md)
+## Location [20200502location.md]
 
 |      | Latitute   | Longitude   | Elevation |
 |------|------------|-------------|-----------|
@@ -15,4 +15,4 @@ The peak gain **on-axis is 32-dB**, moving off-axis it falls to **5-dB or lower 
 
 ![E and H gain slices](FirstRunSimulation/First.png)
 
-[First Simulation](20200502simulations.md)
+[First Simulation](20200502simulation.md)
