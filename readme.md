@@ -1,7 +1,7 @@
 # Summary
 
 
-## Location [Details](coordinates/20200502location.md)
+## Location
 
 |      | Latitute   | Longitude   | Elevation (m) |
 |------|------------|-------------|---------------|
@@ -10,6 +10,18 @@
 
 **Separation:** 208 m.
 
+## Antenna gain
+Gain on axis: 32 dB.
+
+Gain off-axis: 5 dB or lower.
+
+## Tasks to do:
+- Improve the model adding the ground plane behind the feed.
+- Run the simulation with different feed misalignments.
+- Assembly light weight signal sources for calibration.
+
+
+# Detailed
 
 ## Gain [Details](FirstRunSimulation/20200502simulation.md)
 
@@ -31,9 +43,3 @@ with an Arduino to switch the frequency every few seconds automatically and a kn
 
 Using a small signal source allows to use small drones below the
 250 grams limit to registering a drone.
-
-
-## Tasks to do:
-- Improve the model adding the ground plane behind the feed.
-- Run the simulation with different feed misalignments.
-- Assembly light weight signal sources for calibration.
